@@ -1,3 +1,4 @@
+#sudo su 
 <div align="center">
 
 <img alt="Logo" src=".github/assets/octocat.png" width="500">
